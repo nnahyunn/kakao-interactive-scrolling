@@ -1,1 +1,2 @@
-#### cloned only the interactive parts from 카카오 인재영입 페이지
+#### 스크롤해보기
+https://nnahyunn.github.io/kakao-interactive-scrolling/
